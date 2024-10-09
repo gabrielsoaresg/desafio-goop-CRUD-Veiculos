@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GoopCadastroDeVeiculos.props" />
+</Project>
