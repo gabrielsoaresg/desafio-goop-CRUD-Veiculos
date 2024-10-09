@@ -1,0 +1,6 @@
+@GoopCadastroDeVeiculos_HostAddress = http://localhost:5001
+
+GET {{GoopCadastroDeVeiculos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
